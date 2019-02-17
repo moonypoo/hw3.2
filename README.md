@@ -28,4 +28,4 @@ What's an example of a range you might use for the map function?
 its the range of the size of your vanvas 0-255 + etc (min,max)
 
 What line of code would give me a random year in the last century?
-var x = random(2000);
+var x = random(0,2000);
